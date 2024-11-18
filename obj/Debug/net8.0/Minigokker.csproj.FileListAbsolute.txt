@@ -1,0 +1,14 @@
+C:\Users\jesse\source\repos\Minigokker\bin\Debug\net8.0\Minigokker.exe
+C:\Users\jesse\source\repos\Minigokker\bin\Debug\net8.0\Minigokker.deps.json
+C:\Users\jesse\source\repos\Minigokker\bin\Debug\net8.0\Minigokker.runtimeconfig.json
+C:\Users\jesse\source\repos\Minigokker\bin\Debug\net8.0\Minigokker.dll
+C:\Users\jesse\source\repos\Minigokker\bin\Debug\net8.0\Minigokker.pdb
+C:\Users\jesse\source\repos\Minigokker\obj\Debug\net8.0\Minigokker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesse\source\repos\Minigokker\obj\Debug\net8.0\Minigokker.AssemblyInfoInputs.cache
+C:\Users\jesse\source\repos\Minigokker\obj\Debug\net8.0\Minigokker.AssemblyInfo.cs
+C:\Users\jesse\source\repos\Minigokker\obj\Debug\net8.0\Minigokker.csproj.CoreCompileInputs.cache
+C:\Users\jesse\source\repos\Minigokker\obj\Debug\net8.0\Minigokker.dll
+C:\Users\jesse\source\repos\Minigokker\obj\Debug\net8.0\refint\Minigokker.dll
+C:\Users\jesse\source\repos\Minigokker\obj\Debug\net8.0\Minigokker.pdb
+C:\Users\jesse\source\repos\Minigokker\obj\Debug\net8.0\Minigokker.genruntimeconfig.cache
+C:\Users\jesse\source\repos\Minigokker\obj\Debug\net8.0\ref\Minigokker.dll
